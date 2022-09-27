@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header {
+  z-index: 100;
+}
+
+.pokemon {
+  padding-top: 80px;
+}
